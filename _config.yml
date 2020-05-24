@@ -3,7 +3,7 @@ title:               Pitaya
 tagline:             'A Cook then A Queen'
 description:         'The Kingdom of Pitaya is a nation ruled by a cook. Here we have all the amazing things one dreams about.'
 url:                 http://lanyon.getpoole.com
-baseurl:             ''
+baseurl:             https://github.com/PTY-GH/Kingdom
 paginate:            5
 permalink:           pretty
 
