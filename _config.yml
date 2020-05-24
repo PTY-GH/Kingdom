@@ -1,0 +1,22 @@
+# Setup
+title:               Pitaya
+tagline:             'A Cook then A Queen'
+description:         'The Kingdom of Pitaya is a nation ruled by a cook. Here we have all the amazing things one dreams about.'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.1
+google_analytics_id: #UA-XXXX-Y
