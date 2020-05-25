@@ -17,9 +17,8 @@ A B C
 
 ### Chef
 
-Pitaya the Cook (Queen)
+* Pitaya the Cook (Queen)
 
 ### Waitress
-Natasha
-
-(Princess) Lux
+* Natasha
+* (Princess) Lux

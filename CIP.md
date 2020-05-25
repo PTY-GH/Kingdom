@@ -10,7 +10,11 @@ title: CI group
 
 All about the *Crime Investigation* group.
 
-### President
-Dora
-### Members
+### Manager
+* Dora
 
+### Members
+* Milkie
+* Xiaohei
+* Chris
+* Thomas

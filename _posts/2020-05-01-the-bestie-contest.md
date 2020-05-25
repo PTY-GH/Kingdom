@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Bestie Contest
+title: The Beet of Bestie
 ---
 
 
