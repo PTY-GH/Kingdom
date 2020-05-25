@@ -11,7 +11,8 @@ title: The Wind of Fall
 Welcome to the _Wind of Fall_, a nation-owned restaurant in the Kingdom of Pitaya. Food is everything that matters here.
 
 ## Menu
-
+### Daily Hearty Breakfast
+A B C
 ## Staff
 
 ### Chef
