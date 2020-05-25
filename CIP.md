@@ -9,3 +9,8 @@ title: CI group
 </p>
 
 All about the *Crime Investigation* group.
+
+### President
+Dora
+### Members
+
