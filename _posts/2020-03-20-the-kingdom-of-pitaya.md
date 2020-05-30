@@ -9,7 +9,7 @@ title: The Kingdom of Pitaya
 </p>
 
 ## Pitaya the Queen
-Pitaya is <strong>the cook</strong> of the Kingdom of Pitaya. Oh, BTW, as you might notice, she the <strong>Queen</strong> too.
+Pitaya is <strong>the cook</strong> of the Kingdom of Pitaya. Oh, BTW, as you might notice, she is the <strong>Queen</strong> too.
 
 ## Dr. Esther
 Dr. Eshter is the <strong>smartest</strong> member in the Kingdom of Pitaya. She serves as the prime minister as well as the minister of education of the kingdom.
