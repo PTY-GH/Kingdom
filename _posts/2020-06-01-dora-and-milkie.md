@@ -16,4 +16,4 @@ Dora has a <strong>huge crush</strong> on some guy in the Kingdom.
 
 ## Milkie
 Milkie goes along with almost everyone in the Kingdom.
-<im src='public/gif/moo.GIF' alt='Moo Moo~'>
+<img src='public/gif/moo.GIF' alt='Moo Moo~'>
