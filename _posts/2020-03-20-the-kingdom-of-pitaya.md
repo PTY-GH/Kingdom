@@ -13,4 +13,4 @@ Pitaya is <strong>the cook</strong> of the Kingdom of Pitaya. Oh, BTW, as you mi
 
 ## Dr. Esther
 Dr. Eshter is the <strong>smartest</strong> member in the Kingdom of Pitaya. She serves as the prime minister as well as the minister of education of the kingdom.
-<img src='public/laochen.jpg' alt='Have you studied today?!'>
+<p align='center'><img src='public/laochen.jpg' alt='Have you studied today?!'></p>
