@@ -8,12 +8,12 @@ title: Vanilla and Strawberry
   Combo never goes wrong.
 </p>
 
-Dora and Milkie share an apartment.
+You can not resist a strawberry on top of your vanilla ice cream, and Milkie has to get her bestie as her homie.
 
 ## Dora
-Dora has a <strong>huge crush</strong> on some guy in the Kingdom.
+Dora is sweetie strawberry at home, but a <strong><span style='color=red'>spicy chili</span></strong> at work. Dora has a huge <strong><span style='color=pink'>crush<span></strong> on some guy in the kingdom.
 <p align='center'><img src='public/gif/dora_love.gif' alt='Dora in Love'></p>
 
 ## Milkie
-Milkie goes along with almost everyone in the Kingdom.
+Vanilla goes along with everyone, but only the bestie knows Milkie's <strong>moo</strong> point.
 <p align='center'><img src='public/gif/moo.gif' alt='Moo Moo~'></p>
