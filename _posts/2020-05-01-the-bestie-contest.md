@@ -9,10 +9,10 @@ title: The Best of Bestie
 </p>
 
 ## Contestants
-* Pitaya the Queen & Dr. Esther
+* [Pitaya the Queen & Dr. Esther]({% post_url 2020-03-20-the-kingdom-of-pitaya %})
 * Q1 & QA
 * Geraldine & Natasha
-* Dora & Milkie
+* [Dora & Milkie]({% post_url 2020-06-01-dora-and-milkie %})
 
 ## Referees
 * 国民闺蜜: Lisa the shark
