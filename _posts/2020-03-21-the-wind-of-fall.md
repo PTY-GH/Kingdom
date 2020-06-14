@@ -8,7 +8,7 @@ title: The Wind of Fall
   <i>秋风饭店</i>  is the first restaurant in the Kingdom of Pitaya.
 </p>
 
-Welcome to the _Wind of Fall_, a nation-owned restaurant in the Kingdom of Pitaya. Food is everything that matters here.
+Welcome to the _Wind of Fall_, a state-owned restaurant in the Kingdom of Pitaya. Food is everything that matters here.
 
 ## Menu
 ### Daily Breakfast
