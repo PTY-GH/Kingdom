@@ -12,7 +12,7 @@ title: The Best of Bestie
 * [Pitaya the Queen & Dr. Esther]({% post_url /Kingdom/2020-03-20-the-kingdom-of-pitaya %})
 * Q1 & QA
 * Geraldine & Natasha
-* [Dora & Milkie]({{site.baseurl}{% post_url 2020-06-01-dora-and-milkie %}})
+* [Dora & Milkie]({{site.baseurl}}{% post_url 2020-06-01-dora-and-milkie %})
 
 ## Referees
 * 国民闺蜜: Lisa the shark
