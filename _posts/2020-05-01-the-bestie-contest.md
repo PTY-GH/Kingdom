@@ -9,7 +9,7 @@ title: The Best of Bestie
 </p>
 
 ## Contestants
-* [Pitaya the Queen & Dr. Esther]({% post_url /Kingdom/2020-03-20-the-kingdom-of-pitaya %})
+* [Pitaya the Queen & Dr. Esther]({{site.baseurl}}{% post_url 2020-03-20-the-kingdom-of-pitaya %})
 * Q1 & QA
 * Geraldine & Natasha
 * [Dora & Milkie]({{site.baseurl}}{% post_url 2020-06-01-dora-and-milkie %})
