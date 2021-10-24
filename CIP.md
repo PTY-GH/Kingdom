@@ -13,8 +13,11 @@ All about the *Crime Investigation* group.
 ### Manager
 * Dora
 
-### Members
+### Assistant Manager
 * Milkie
+
+### Members
 * Xiaohei
 * Chris
 * Thomas
+* Catherine
